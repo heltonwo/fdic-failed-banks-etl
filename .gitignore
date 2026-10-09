@@ -16,3 +16,5 @@ data/
 # Pastas de configuração do VS Code (opcional)
 .vscode/
 tests/
+*.session.sql
+.streamlit/secrets.toml
